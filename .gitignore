@@ -1,0 +1,10 @@
+#
+/bing
+*.exe
+*.out
+
+#.env
+*.log
+
+# Ignore macOS system files
+.DS_Store
